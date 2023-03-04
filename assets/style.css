@@ -38,6 +38,24 @@ li {
     
     
 }
+
+body{
+    text-align: center;
+    border-top: 20px;
+    border-bottom: 20px;
+    border-color: cornflowerblue;
+}
+
+#OSGC{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-top: 12pt;
+    background-color: goldenrod;
+}
+
+figure{
+    border-image: fill;
+    border-color: green;
+}
 #downbelow {
     position:fixed;
     bottom: 0px;
